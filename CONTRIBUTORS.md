@@ -334,3 +334,8 @@
 - Bio: Scienctist, developer
 - GitHub: [andreas-ra](https://github.com/andreas-ra)
 
+#### Name: [Dylan Sprague](https://github.com/simran1802)
+- Place: New Delhi, India
+- Bio: Student at Gtbit 
+- GitHub: [simran1802](https://github.com/simran1802)
+
